@@ -1,0 +1,93 @@
+.brian {
+    color: white;
+    font-family: 'Arial';
+    text-align: center;
+    margin-left: 35px;
+    margin-top: 15px;
+    font-size: 30px;
+
+}
+
+.brian-wrapper {
+    height: 70px;
+    background: #4aaaa5;
+    width: 140px;
+    margin-left: 40px;
+}
+
+.navbar {
+    padding: 0;
+    background: white;
+    height: 70px;
+    
+}
+
+.nav-item{
+    font-family: 'Arial';   
+}
+
+.sides {
+    border-left: 1px solid #777777;
+    border-right: 1px solid #777777
+}
+
+.nav-link {
+    color: #777777;
+}
+
+.p {
+    font-family: 'arial';
+}
+
+.display-4 {
+    font-size: 50px;
+}
+
+.fixed-bottom {
+    background: #cccccc;
+}
+
+.bottom {
+    display: block;
+    margin-top: 900px;
+    margin-bottom: 
+}
+
+.sticky-bottom {
+    text-align: center;
+}
+
+.navbar-brand {
+    text-align: center;
+}
+
+.card {
+    font-family: 'arial';
+    color: #6c757d;
+    
+
+}
+
+.btn-primary {
+    background:white;
+    border: 1px solid white;
+}
+
+.card-header {
+    font-size: 20px;
+}
+
+.card-body {
+    
+}
+
+.formy {
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.contact-btn {
+    color: black;
+}
+
